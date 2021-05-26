@@ -1,0 +1,26 @@
+@import 'theme-colors';
+
+html,
+body {
+    height: 100%;
+}
+
+.app-background {
+    background-color: var(--app-background-color);
+}
+
+.dynamic-title {
+    color: var(--dynamic-title-color);
+}
+
+.dynamic-subtitle {
+    color: var(--dynamic-subtitle-color)
+}
+
+.dynamic-bg {
+    background-color: var(--dynamic-bg);
+}
+
+.theme-block {
+    background-color: var(--dynamic-block);
+}
